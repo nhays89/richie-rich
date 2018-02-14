@@ -1,5 +1,3 @@
-package richie_rich;
-
 import java.util.HashSet;
 import java.util.Scanner;
 
