@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class Main {
+public class Solution {
 
     static String richieRich(String str, int n, int k) {
         int len = str.length();
